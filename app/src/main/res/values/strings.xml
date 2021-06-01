@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaulaPeriodicaFinal</string>
+    <string name="item5">Joc</string>
+    <string name="item6">Tots els elements</string>
+    <string name="item1">Sintetics</string>
+    <string name="item2">Gasos</string>
+    <string name="item3">Solids</string>
+    <string name="item4">Liquids</string>
+</resources>
